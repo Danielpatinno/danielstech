@@ -1,0 +1,1 @@
+export { ModalEditProduct } from './ModalEditProduct'
